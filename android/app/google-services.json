@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005662102120",
+    "project_id": "ecommerseapp-5b73a",
+    "storage_bucket": "ecommerseapp-5b73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005662102120:android:4ed86decfc9401e44811dd",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo5ifWHlM_larv48pSV_jp_ypnmbvulb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
