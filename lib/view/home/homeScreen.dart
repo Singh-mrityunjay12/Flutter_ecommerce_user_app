@@ -308,10 +308,14 @@ class HomeScreen extends StatelessWidget {
                                       crossAxisAlignment:
                                           CrossAxisAlignment.start,
                                       children: [
-                                        Image.network(
-                                          allproductsdata[index]['p_imgs'][0],
-                                          width: 200,
-                                          fit: BoxFit.fill,
+                                        Container(
+                                          padding: EdgeInsets.only(
+                                              left: 10, top: 10),
+                                          child: Image.network(
+                                            allproductsdata[index]['p_imgs'][0],
+                                            width: 130,
+                                            fit: BoxFit.cover,
+                                          ),
                                         ),
                                         Spacer(), //equal space provide
                                         "${allproductsdata[index]['p_name']}"

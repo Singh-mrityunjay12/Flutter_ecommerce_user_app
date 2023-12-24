@@ -43,12 +43,13 @@ const searchAnything = "Search anything...",
 const womenClothing = "Women Clothing",
     menClothingFashion = "Men Clothing & Fashion",
     compAccess = "Computer & Accessories",
-    automobile = "AutoMobile",
     kidtoys = "Kids & Toys",
-    toys = "Toys",
-    jewelery = "Jewelery",
+    sport = "Sports",
+    engineersEquipment = "EngineersEquipment",
+    makeupKit = "MakeupKit",
     cellPhone = "cellPhone & Tab",
-    furniture = "Furniture";
+    sofaSet = "Sofa Set",
+    carVehicles = "Car Vehicles";
 
 //item details string
 const video = "Video",

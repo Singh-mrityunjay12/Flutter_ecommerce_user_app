@@ -260,11 +260,8 @@ class ItemDetails extends StatelessWidget {
 
                     10.heightBox,
                     //description section
-                    "Description about Acer Laptop"
-                        .text
-                        .fontFamily(semibold)
-                        .color(darkFontGrey)
-                        .make(),
+                    "${data['p_desc1']}".text.color(darkFontGrey).make(),
+
                     10.heightBox,
                     "${data['p_desc']}".text.color(darkFontGrey).make(),
 

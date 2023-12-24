@@ -12,23 +12,25 @@ const categoriesList = [
   womenClothing,
   menClothingFashion,
   compAccess,
-  automobile,
   kidtoys,
-  toys,
-  jewelery,
+  sport,
   cellPhone,
-  furniture
+  makeupKit,
+  engineersEquipment,
+  sofaSet,
+  carVehicles
 ];
 const categoriesImageList = [
   imgFc1,
+  imgFc11,
   imgFc2,
-  imgFc3,
   imgFc4,
   imgFc5,
   imgFc6,
   imgFc7,
   imgFc8,
-  imgFc9
+  imgFc9,
+  imgFc3
 ];
 
 //itemDetail

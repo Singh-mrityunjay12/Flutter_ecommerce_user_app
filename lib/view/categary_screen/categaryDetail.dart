@@ -159,8 +159,9 @@ class _CategoriesDetailState extends State<CategoriesDetail> {
                                               .align(TextAlign.end)
                                               .make()
                                               .box
-                                              .margin(
-                                                  EdgeInsets.only(bottom: 45))
+                                              .margin(EdgeInsets.only(
+                                                bottom: 30,
+                                              ))
                                               .make()
                                         ],
                                       )

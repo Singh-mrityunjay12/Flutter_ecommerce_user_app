@@ -75,6 +75,7 @@ const imgFc7 = "assets/images/fc7.jpeg";
 const imgFc8 = "assets/images/fc8.jpeg";
 const imgFc9 = "assets/images/fc9.jpeg";
 const imgFc10 = "assets/images/fc10.jpg";
+const imgFc11 = "assets/images/imgFc10.jpg";
 const imgFd1 = "assets/images/fd1.jpg";
 const imgFd2 = "assets/images/fd2.jpg";
 const imgFd3 = "assets/images/fd3.jpg";
