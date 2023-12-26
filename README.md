@@ -12,20 +12,20 @@ Instruction for how to run this App: I provided to you one zip file(inside zip f
 8. Account Updates:Users can create a new account,select photo from phone according to own desire ,user can chake own order,messages and wishlist item in your account.user can edit your account if he want and user can be logout from this app. 
    
 <div style=align-items: center;">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W1.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W2.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W3.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W4.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W5.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W6.jpg">
-   <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W7.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W8.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W9.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W10.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W11.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W12.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W13.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W14.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W15.jpg">
-  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/tree/main/screenshotofApp/W16.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W1.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W2.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W3.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W4.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W5.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W6.jpg">
+   <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W7.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W8.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W9.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W10.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W11.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W12.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W13.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W14.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W15.jpg">
+  <img width=200px height=450px src="https://github.com/Singh-mrityunjay12/Flutter_ecommerce_user_app/blob/main/screenshotofApp/W16.jpg">
 </div>
