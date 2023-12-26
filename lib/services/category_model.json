@@ -27,39 +27,22 @@
             ]
 
         },
-        {
-            "name":"AutoMobile",
-            "subcategories":[
-                "Cars",
-                "Bikes",
-                "Busses"
-            ]
-
-        },
+       
         {
             "name":"Kids & Toys",
             "subcategories":[
-                "shoes & Bags",
-                "Baby Clothing",
-                "Girls Toys"
+                "Bolls",
+                "Doll",
+                "Puzzles"
             ]
 
         },
         {
-            "name":"Toys",
+            "name":"Sports",
             "subcategories":[
-                "Cycling",
-                "Sneakers",
-                "Swimming"
-            ]
-
-        },
-        {
-            "name":"Jewelery",
-            "subcategories":[
-                "Necklace",
-                "Gold",
-                "Earing"
+                "Cricket",
+                "Hockey",
+                "Golf"
             ]
 
         },
@@ -73,13 +56,39 @@
 
         },
         {
-            "name":"Furniture",
+            "name":"MakeupKit",
+            "subcategories":[
+                "Necklace",
+                "Gold",
+                "Earing"
+            ]
+
+        },
+        {
+          "name":"EngineersEquipment",
+          "subcategories":[
+            "Construction software",
+            "Engineering pad",
+            "CAD"
+          ]
+        },
+      
+        {
+            "name":"Sofa Set",
             "subcategories":[
                 "Sofa",
                 "Beds",
                 "Home Textile"
             ]
 
+        },
+        {
+            "name":"Car Vehicles",
+            "subcategories":[
+                "SUV",
+                "Sport car",
+                "Sedan"
+            ]
         }
     ]
 }

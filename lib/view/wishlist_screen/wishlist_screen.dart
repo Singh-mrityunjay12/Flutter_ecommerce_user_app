@@ -33,6 +33,7 @@ class WishlistScreen extends StatelessWidget {
               return "No Order yet!".text.color(darkFontGrey).makeCentered();
             } else {
               var data = snapshot.data!.docs;
+              print(data);
               return Column(
                 children: [
                   Expanded(
@@ -71,9 +72,9 @@ class WishlistScreen extends StatelessWidget {
 
                               ///  SetOption() true karane se left item ko merge karata h jisase vo kisi aur se replace na ho paye
 
-                              print("///////////////////////////////////////");
+                              print("///////////////////////////////////////A");
                               print(data[index].id);
-                              print("///////////////////////////////////////");
+                              print("///////////////////////////////////////B");
                             }),
                           );
                         }),

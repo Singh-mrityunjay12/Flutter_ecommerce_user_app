@@ -36,9 +36,11 @@ class SearchScreen extends StatelessWidget {
             } else if (snapshot.data!.docs.isEmpty) {
               return "No Product is found".text.makeCentered();
             } else {
-              var data = snapshot.data!.docs;
+              var data = snapshot.data!
+                  .docs; // Gets a list of all the documents included in this snapshot.(means snapshot me jitane bhi document honge un sabhi ko list me convert kar deta h docs)
               var filtered = data
                   .where(
+                    //where ka use karake ham log data ko filter karate h
                     (element) => element['p_name']
                         .toString()
                         .toLowerCase()
@@ -50,7 +52,7 @@ class SearchScreen extends StatelessWidget {
               return Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: GridView(
-                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 2,
                       mainAxisSpacing: 4,
                       crossAxisSpacing: 4,
